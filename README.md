@@ -70,13 +70,13 @@ Threat-Hunting/
 git clone https://github.com/Aruns-itsme/Threat-Hunting.git
 ```
 
-2. Explore the hunting-guides/ and incident-response-playbooks/ folders for ready-to-use resources.
+2️. Explore the hunting-guides/ and incident-response-playbooks/ folders for ready-to-use resources.
 
 3️. Import detection queries into your SIEM:
 
-Wazuh: queries/wazuh_hunting_queries.md
+- Wazuh: queries/wazuh_hunting_queries.md
 
-Splunk: queries/splunk_hunting_queries.md
+- Splunk: queries/splunk_hunting_queries.md
 
 4️. Use the logs in logs/ for lab simulations and testing.
 
